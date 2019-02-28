@@ -1,0 +1,143 @@
+[config]
+currency = "€"
+population = 8521
+economic_cycle_start = 0.6
+min_income = 2500
+max_income = 150000
+min_gdp = 
+max_gdp = 3200000
+wealth_mod = 0.9
+starting_debt = 167000
+name = RMTK
+guiname = RMTK
+names_file = RMTK\data\names\rmtk_names.txt
+term_length = 16
+max_terms = -1
+details_image = "rmtk_details.jpg"
+description = "Grinder voor internetautisten"
+flag = "rmtk_flag.jpg"
+apathy = 0.7
+jobtitle = Prime Minister
+GUID = 0
+
+[options]
+MONARCHY
+
+[stats]
+Population: = "17,041,565 (2016 est.)"
+Size: = "41,543 sq km"
+Life Expectancy: = "81.30 years (2015)"
+Gini(inequality): = "28.0 (2012)"
+GDP per capita: = "$44,94113"
+Poverty = "13% (2015)"
+Ethnicity: = "80.7% Dutch (2009)"
+National Debt: = "65,5% of GDP (2015)"
+Unemployment Rate: = "7.0% (Sept. 2015)"
+Monarch: = "Willem-Alexander"
+Obesity Rate: = "49.82% (2015)"
+Autism per mod: = "2"
+
+[policies]
+
+IncomeTax = 0.38
+CorporationTax = 0.20
+SalesTax = 0.2
+PetrolTax = 0.46
+PropertyTax = 0.79
+TobaccoTax = 0.6
+InheritanceTax = 0.3
+AlcoholTax = 0.9
+AirlineTax = 0.4
+ImportTarrifs = 0.8
+MortgageTaxRelief = 0.25
+PlasticBagTax = 0.1
+TaxShelters = 0.7
+SchoolTaxCredits = 0.2
+Punitivewealthtax = 0.95
+CarbonTax = 0.25
+CarTax = 0.8
+
+
+PoliceForce = 0.8
+ArmedPolice = 0.2
+Tasers = 0.2
+CCTVCameras = 0.2
+MilitarySpending = 0.1
+IDCards = 0.2
+LegalAid = 0.2
+IntelligenceServices = 0.2
+Prisons = 0.3
+WitnessProtectionProgram = 0.1
+
+UnemployedBenefit = 0.7
+DisabilityBenefit = 0.7
+StatePensions = 0.5
+ChildBenefit = 0.2
+ChildcareProvision = 0.2
+MaternityLeave = 0.3
+WelfareFraudDept = 0.25
+RentControls = 0.3
+StateHealthService = 0.8
+
+StateSchools = 0.8
+UniversityGrants = 0.25
+AdultEducationSubsidies = 0.2
+TechnologyColleges = 0.2
+PublicLibraries = 1.0
+SchoolVouchers = 0.5
+
+ForeignAid = 0.55
+RaceDiscriminationAct = 0.25
+TourismAdCampaign =0.35
+CitizenshipTests = 0.3
+DiplomaticService = 0.5
+Compulsoryworkfortheunemployed = 1.0
+
+AlcoholAwarenessCampaign = 0.4
+AlcoholLaw = 0.4
+NeedleExchangeProgram = 1.0
+LegaliseProstitution = 0.5
+Narcotics = 0.3
+
+RoadBuilding = 0.5
+RailSubsidies = 0.35
+HybridCarsInitiative = 0.2
+BusLanes = 0.4
+BusSubsidies = 0.2
+SateliteRoadPricing = 0.5
+SchoolBuses = 1.0
+CarPoolingCampaign = 0.1
+
+CleanEnergySubsidies = 0.31
+PollutionControls = 0.31
+Recycling = 0.21
+EcoHomeRegulations = 0.31
+Limitorbancarsincities = 0.2
+
+TechnologyGrants = 0.4
+ScienceFunding = 0.3
+LabourLaws = 0.3
+BusinessStartupCampaign = 0.3
+WorkSafetyLaw = 1.0
+ConsumerRights = 0.3
+FoodStandards = 0.5
+YoungEntrepreneurScheme = 0.2
+CapCEOPayMultiplier = 1.0
+
+CompulsoryFoodLabelling = 0.5
+FreeParentingClasses = 0.2
+ArtsSubsidies = 0.1
+OrganDonation = 0.2
+HealthyEatingCampaign = 0.3
+KeepTheCountryTidyCampaign = 0.3
+CyclingCampaign = 0.3
+CompulsorySchoolSports = 0.5
+GovernmentSubsidiesForUnions = 0.5
+
+BanSundayShopping = 0.5
+Creationism = 0.9
+AbortionLaw = 1.0
+Publicreligiousbroadcasts = 0.1
+
+
+

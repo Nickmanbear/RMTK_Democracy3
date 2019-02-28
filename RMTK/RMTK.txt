@@ -1,0 +1,6 @@
+[config]
+name = RMTK
+path = RMTK
+guiname = RMTK
+author = Nickmanbear
+description = A mod that adds RMTK as a country
