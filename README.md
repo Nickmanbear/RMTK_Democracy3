@@ -1,6 +1,6 @@
 # RMTK Democracy 3
  
-# Setup Guide
+## Setup Guide
  
 Place the RMTK.txt file into ...\Steam\steamapps\common\Democracy 3\data\mods
  
