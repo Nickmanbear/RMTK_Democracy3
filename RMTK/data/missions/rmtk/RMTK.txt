@@ -1,13 +1,13 @@
 [config]
 currency = "€"
 population = 8521
-economic_cycle_start = 0.6
+economic_cycle_start = 0.5
 min_income = 2500
 max_income = 150000
 min_gdp = 
 max_gdp = 3200000
 wealth_mod = 0.9
-starting_debt = 167000
+starting_debt = 467000
 name = RMTK
 guiname = RMTK
 names_file = RMTK\data\names\rmtk_names.txt
@@ -39,7 +39,7 @@ Autism per mod: = "2"
 
 [policies]
 
-IncomeTax = 0.38
+IncomeTax = 0.25
 CorporationTax = 0.20
 SalesTax = 0.2
 PetrolTax = 0.46
@@ -80,7 +80,7 @@ RentControls = 0.3
 StateHealthService = 0.8
 
 StateSchools = 0.8
-UniversityGrants = 0.25
+UniversityGrants = 0.75
 AdultEducationSubsidies = 0.2
 TechnologyColleges = 0.2
 PublicLibraries = 1.0
