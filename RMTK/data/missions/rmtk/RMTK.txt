@@ -46,7 +46,7 @@ PetrolTax = 0.46
 PropertyTax = 0.79
 TobaccoTax = 0.6
 InheritanceTax = 0.3
-AlcoholTax = 0.9
+AlcoholTax = 0.7
 AirlineTax = 0.4
 ImportTarrifs = 0.8
 MortgageTaxRelief = 0.25
@@ -56,6 +56,7 @@ SchoolTaxCredits = 0.2
 Punitivewealthtax = 0.95
 CarbonTax = 0.25
 CarTax = 0.8
+HealthFoodSubsidies = 0.1
 
 
 PoliceForce = 0.8
@@ -77,9 +78,10 @@ ChildcareProvision = 0.2
 MaternityLeave = 0.3
 WelfareFraudDept = 0.25
 RentControls = 0.3
-StateHealthService = 0.8
+StateHealthService = 0.85
+StateHousing = 0.3
 
-StateSchools = 0.8
+StateSchools = 0.7
 UniversityGrants = 0.75
 AdultEducationSubsidies = 0.2
 TechnologyColleges = 0.2
@@ -99,19 +101,19 @@ NeedleExchangeProgram = 1.0
 LegaliseProstitution = 0.5
 Narcotics = 0.3
 
-RoadBuilding = 0.5
-RailSubsidies = 0.35
+RoadBuilding = 0.6
+RailSubsidies = 0.4
 HybridCarsInitiative = 0.2
 BusLanes = 0.4
-BusSubsidies = 0.2
+BusSubsidies = 0.25
 SateliteRoadPricing = 0.5
 SchoolBuses = 1.0
 CarPoolingCampaign = 0.1
 
-CleanEnergySubsidies = 0.31
-PollutionControls = 0.31
-Recycling = 0.21
-EcoHomeRegulations = 0.31
+CleanEnergySubsidies = 0.3
+PollutionControls = 0.3
+Recycling = 0.2
+EcoHomeRegulations = 0.3
 Limitorbancarsincities = 0.2
 
 TechnologyGrants = 0.4
@@ -122,7 +124,6 @@ WorkSafetyLaw = 1.0
 ConsumerRights = 0.3
 FoodStandards = 0.5
 YoungEntrepreneurScheme = 0.2
-CapCEOPayMultiplier = 1.0
 
 CompulsoryFoodLabelling = 0.5
 FreeParentingClasses = 0.2
